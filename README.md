@@ -2,8 +2,8 @@
 
 This plugin is a collection of intellij plugins and settings for VS Code style.
 
-[![Version](https://img.shields.io/jetbrains/plugin/v/22312.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/22312.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
+[![Version](https://img.shields.io/jetbrains/plugin/v/22312.svg)](https://plugins.jetbrains.com/plugin/22312)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/22312.svg)](https://plugins.jetbrains.com/plugin/22312)
 
 ## Installation
 
